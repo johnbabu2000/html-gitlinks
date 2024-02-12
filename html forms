@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html>
+    <body>
+        <h1>HTML FORMS</h1>
+        <legend
+        
+            <label for="register number">FULL NAME:</label>
+            <input type="=text"placeholder ="johnbabu"><br><br>
+            <label for ="password">mobile number:</label>
+            <input type="text"placeholder="8865532124"><br><br>
+            <label for="email">email:</label>
+            <input type="text"value="ram@123"><BR><br>
+                <label for="date">DATE OF BIRTH</label>
+        <input type ="date" value="date"><br>
+<br>
+<label for="gender">gender:</label>
+<input type="radio">male <input type="radio">female<br>
+<br>
+<lable for="password">password:</lable>
+<input type="text" value="password"><br>
+
+<br>
+<label for="education details">completed education details:</label><select>
+    <option value="2020 inter">2020 inter</option>
+    <option value="2018">2018 ssc</option>
+    </select><br>
+<br>
+<label for="details"><details>:</label>
+</select>
+<br>
+
+<button>submit</button>
+
+
+
+        </centre>
+    </form>
